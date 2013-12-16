@@ -1,5 +1,4 @@
 c:\users\j\documents\visual studio 2013\Projects\PhoneTyping\PhoneTyping\bin\Debug\PhoneTyping.exe.config
-c:\users\j\documents\visual studio 2013\Projects\PhoneTyping\PhoneTyping\obj\Debug\PhoneTyping.csprojResolveAssemblyReference.cache
 c:\users\j\documents\visual studio 2013\Projects\PhoneTyping\PhoneTyping\bin\Debug\PhoneTyping.exe
 c:\users\j\documents\visual studio 2013\Projects\PhoneTyping\PhoneTyping\bin\Debug\PhoneTyping.pdb
 c:\users\j\documents\visual studio 2013\Projects\PhoneTyping\PhoneTyping\obj\Debug\PhoneTyping.exe
@@ -10,3 +9,4 @@ E:\Development\Projects\PhoneTyping\PhoneTyping\obj\Debug\PhoneTyping.pdb
 E:\Development\Projects\PhoneTyping\PhoneTyping\obj\Debug\PhoneTyping.csprojResolveAssemblyReference.cache
 E:\Development\Projects\PhoneTyping\PhoneTyping\bin\Debug\PhoneTyping.exe
 E:\Development\Projects\PhoneTyping\PhoneTyping\bin\Debug\PhoneTyping.pdb
+C:\Users\J\Documents\Visual Studio 2013\Projects\PhoneTyping\PhoneTyping\obj\Debug\PhoneTyping.csprojResolveAssemblyReference.cache

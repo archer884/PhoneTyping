@@ -9,6 +9,13 @@ namespace PhoneTyping
     {
         static void Main(string[] args)
         {
+            var tree = new PrefixTree();
+            tree.Add("tea");
+            tree.Add("tee");
+            foreach (var item in tree)
+                Console.WriteLine(item);
+            return;
+
             var values = CreateTestValues(10000, 16).ToList();
             var binaryTranslator = new BinaryTranslator();
             var trieTranslator = new TrieTranslator();
